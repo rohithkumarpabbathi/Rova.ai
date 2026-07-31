@@ -1,0 +1,6 @@
+{
+  "name": "Hey Rohith",
+  "description": "Modern AI Voice Assistant with glassmorphism UI, wake word, smart automation, TTS/STT, and device controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
